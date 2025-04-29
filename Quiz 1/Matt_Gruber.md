@@ -11,7 +11,7 @@ I am a senior at the U of I studying Information Sciences!
 
 | Location          | Picture                              | Description |
 |------------------|--------------------------------------|-------------|
-| Charleston, NC   | [...........](https://github.com/mattgrub/pics/blob/c9d43a84d5d4283470705f14a22e935605bb5f04/IMG_0159.HEIC) | This is my favorite place to go to the beach! |
-| Central Park, NY | [...........](https://github.com/mattgrub/pics/blob/c9d43a84d5d4283470705f14a22e935605bb5f04/IMG_2232.HEIC) | I went to New York last year for the first time and it was amazing. |
-| Appalachian Trail, TN | [...........](https://github.com/mattgrub/pics/blob/c9d43a84d5d4283470705f14a22e935605bb5f04/IMG_2232.HEIC) | This hike was awesome!|
+| Charleston, NC   | https://github.com/mattgrub/pics/blob/30fd566003b7eae168fad01baa5b75b5eee232c3/charleston.jpeg | This is my favorite place to go to the beach! |
+| Central Park, NY | https://github.com/mattgrub/pics/blob/30fd566003b7eae168fad01baa5b75b5eee232c3/centralpark.jpeg | I went to New York last year for the first time and it was amazing. |
+| Appalachian Trail, TN | https://github.com/mattgrub/pics/blob/30fd566003b7eae168fad01baa5b75b5eee232c3/tenn.jpeg | This hike was awesome!|
 
