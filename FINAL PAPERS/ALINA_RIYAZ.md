@@ -1,4 +1,3 @@
-
 # Focus Garden – Final Paper  
 **Alina Riyaz, IS 340: Integrative Project Management, Spring 2025**
 

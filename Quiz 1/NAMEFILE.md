@@ -1,6 +1,9 @@
 ## Write your name on its own line:   
 Megh Brahmbhatt   
-Bradly Alicea   
+Bradly Alicea 
+
+Ashley Ma
+
 Joseph Choi   
 Srikar Manikonda     
 Nabeel Bashir    
@@ -54,3 +57,5 @@ Shivani Ravikumar
 Laiba Khan
 
 Pub Hanchaikul
+
+Tavi Barlow
